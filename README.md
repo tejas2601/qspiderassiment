@@ -170,11 +170,11 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ## 🚀 Deployment
 
-### Frontend (Vercel/Netlify)
+### Frontend 
 1. Build the project: `npm run build`
 2. Deploy the `dist` folder
 
-### Backend (Render/Fly.io)
+### Backend
 1. Set environment variables
 2. Deploy with Node.js runtime
 
